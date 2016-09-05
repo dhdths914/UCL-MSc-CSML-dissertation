@@ -2,10 +2,10 @@
 A project of code for UCL MSc CSML dissertation
 
 
-This dissertation is computed by R and matlab programming. The introduction of the code files are as below:\\
-binomial_test_IHDP: it is the binomial test for IHDP data\\
-binomial_test: it is the binomial test for synthetic data\\
-GP_synthetic: it is the GP model for synthetic data\\
+This dissertation is computed by R and matlab programming. The introduction of the code files are as below:  
+binomial_test_IHDP: it is the binomial test for IHDP data  
+binomial_test: it is the binomial test for synthetic data  
+GP_synthetic: it is the GP model for synthetic data  
 IHDP_ALL_GP: it is the GP model for IHDP data (all data)\\
 IHDP_COLLEGE_GP: it is the GP model for IHDP data (college)\\
 IHDP_HIGHSCHOOL_GP: it is the GP model for IHDP data (high school)\\
